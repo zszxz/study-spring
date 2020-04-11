@@ -16,4 +16,4 @@
 # 三公众号
 知识追寻者
 
-![](https://ww1.yunjiexi.club/2020/02/26/2lOnF.png)
+![](image/zszxz.jpg)
