@@ -11,6 +11,7 @@
     <modules>
         <module>spring-ioc</module>
         <module>spring-bean</module>
+        <module>obtain-bean-way</module>
     </modules>
 
     <dependencies>
