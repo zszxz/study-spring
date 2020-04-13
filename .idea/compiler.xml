@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="obtain-bean-way" />
-        <module name="spring-bean" />
         <module name="spring-ioc" />
+        <module name="spring-bean" />
+        <module name="config-bean" />
       </profile>
     </annotationProcessing>
   </component>
