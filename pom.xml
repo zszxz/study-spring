@@ -13,6 +13,10 @@
         <module>spring-bean</module>
         <module>obtain-bean-way</module>
         <module>config-bean</module>
+        <module>spring-profile</module>
+        <module>spring-condition</module>
+        <module>spring-primary</module>
+        <module>bean-scope</module>
     </modules>
 
     <dependencies>

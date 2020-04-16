@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="obtain-bean-way" />
-        <module name="spring-ioc" />
-        <module name="spring-bean" />
         <module name="config-bean" />
+        <module name="spring-profile" />
+        <module name="spring-bean" />
+        <module name="spring-ioc" />
+        <module name="obtain-bean-way" />
+        <module name="bean-scope" />
+        <module name="spring-primary" />
+        <module name="spring-condition" />
       </profile>
     </annotationProcessing>
   </component>

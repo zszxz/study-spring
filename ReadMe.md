@@ -13,6 +13,14 @@
 
 [《盘点获得spring上下文的几种流行方式》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484629&idx=1&sn=114757c963d45115ce43b9d228c163a4&chksm=a690834491e70a52ee1556924c297c45e11f779eb74b53f2658ea0218fc57f6b879e8c638ac2&scene=21#wechat_redirect)
 
+[《spring装配bean的几种方式》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484634&idx=1&sn=bd0aa9ffc8ad81c55cfc4a06c7fe0991&chksm=a690834b91e70a5debc4bbb0d0a3dea853f7bc6942ed5fa9128b2e39220e2bb0f2ff3e303726&scene=21#wechat_redirect)
+
+[《spring之@Conditional条件化装配bean》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484639&idx=1&sn=67f9b2365c359c813d54ae31908eedd2&chksm=a690834e91e70a589f7a02915130c1822f9451f0b8ede24bf28ca8c9a1c943b0c18da32be8b4&scene=21#wechat_redirect)
+
+[《spring之@Profile注解》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484646&idx=1&sn=2c4d99940acafb38d0f4675c935fac68&chksm=a690837791e70a6134f2098097db616edf1e7d9d06bd26b5639866f69dafd29d35f7cfa4767d&scene=21#wechat_redirect)
+
+[《spring之@Primary与@Qualifier注解》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484651&idx=1&sn=65cfdf58fe64ff274a15ab73872bca89&chksm=a690837a91e70a6ca53d2f161876c0df1fac6b5db21afc7362d68cfe4c232fa1faefb08bb5ea&scene=21#wechat_redirect)
+
 # 三公众号
 知识追寻者
 
