@@ -10,11 +10,15 @@
         <module name="spring-profile" />
         <module name="spring-bean" />
         <module name="spring-ioc" />
+        <module name="spring-mvc" />
         <module name="obtain-bean-way" />
         <module name="bean-scope" />
         <module name="spring-primary" />
         <module name="spring-condition" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-property" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

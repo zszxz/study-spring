@@ -17,6 +17,7 @@
         <module>spring-condition</module>
         <module>spring-primary</module>
         <module>bean-scope</module>
+        <module>spring-mvc</module>
     </modules>
 
     <dependencies>
