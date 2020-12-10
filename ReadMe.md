@@ -21,7 +21,11 @@
 
 [《spring之@Primary与@Qualifier注解》](http://mp.weixin.qq.com/s?__biz=MjM5Mzc4MDQ3OA==&mid=2247484651&idx=1&sn=65cfdf58fe64ff274a15ab73872bca89&chksm=a690837a91e70a6ca53d2f161876c0df1fac6b5db21afc7362d68cfe4c232fa1faefb08bb5ea&scene=21#wechat_redirect)
 
-# 三公众号
-知识追寻者
+# 其它教程
 
-![](image/zszxz.jpg)
+2020 年，知识追寻者开源了一套 权限管理系统，基于 springboot + vue 开发，前后端分离系统；希望大家多多支持；源码地址：https://github.com/zszxz/zboot
+
+如果对知识追寻者其它系列教程有兴趣的读者可以关注作者的公众号：知识追寻者
+
+关注公众号：回复 拍拍知识追寻者，领取面试资料和原创PDF教程；
+

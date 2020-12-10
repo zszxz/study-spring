@@ -17,8 +17,5 @@
         <module name="spring-condition" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-property" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

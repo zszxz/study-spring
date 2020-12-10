@@ -3,11 +3,22 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
-    <content url="file://$MODULE_DIR$">
+    <content url="file://$MODULE_DIR$/..">
+      <sourceFolder url="file://$MODULE_DIR$/../bean-scope/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-profile/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-primary/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-condition/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../config-bean/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-primary/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-profile/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-mvc/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../config-bean/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-condition/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../obtain-bean-way/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-bean/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../spring-ioc/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
